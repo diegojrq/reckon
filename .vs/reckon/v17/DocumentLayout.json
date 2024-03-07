@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\source\\repos\\reckon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08CDD959-6E2E-4F7D-B1DB-1458B8AF76D7}|reckon\\reckon.csproj|c:\\users\\diego\\source\\repos\\reckon\\reckon\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08CDD959-6E2E-4F7D-B1DB-1458B8AF76D7}|reckon\\reckon.csproj|solutionrelative:reckon\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08CDD959-6E2E-4F7D-B1DB-1458B8AF76D7}|reckon\\reckon.csproj|c:\\users\\diego\\source\\repos\\reckon\\reckon\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08CDD959-6E2E-4F7D-B1DB-1458B8AF76D7}|reckon\\reckon.csproj|solutionrelative:reckon\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\reckon\\reckon\\FormMain.cs",
+              "RelativeDocumentMoniker": "reckon\\FormMain.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\reckon\\reckon\\FormMain.cs [Projeto]",
+              "RelativeToolTip": "reckon\\FormMain.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:53:04.591Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\reckon\\reckon\\FormMain.cs",
+              "RelativeDocumentMoniker": "reckon\\FormMain.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\reckon\\reckon\\FormMain.cs",
+              "RelativeToolTip": "reckon\\FormMain.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAUwHkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:21:46.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

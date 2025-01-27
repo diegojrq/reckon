@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("reckon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea621cf861a173a31a047fe456b8a335b83f07e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfbf6199c9d35727104c8670b1ffd5038847390e")]
 [assembly: System.Reflection.AssemblyProductAttribute("reckon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("reckon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

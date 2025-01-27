@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z7F6rWYBpQTEhE794+AKy+9TuA2draKbw2xh+x4msDJSYHqttOddmIQ3u6fO5/bUvZh0c47+Q1Eta0fk8OgR7g==",
+  "dgSpecHash": "iuAWojSkTyw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\diego\\source\\repos\\reckon\\reckon\\reckon.csproj",
+  "projectFilePath": "C:\\Projetos\\reckon\\reckon\\reckon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diego\\.nuget\\packages\\emgu.cv\\4.8.1.5350\\emgu.cv.4.8.1.5350.nupkg.sha512",
     "C:\\Users\\diego\\.nuget\\packages\\emgu.cv.bitmap\\4.8.1.5350\\emgu.cv.bitmap.4.8.1.5350.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diego\\source\\repos\\reckon\\reckon\\reckon.csproj": {}
+    "C:\\Projetos\\reckon\\reckon\\reckon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diego\\source\\repos\\reckon\\reckon\\reckon.csproj": {
+    "C:\\Projetos\\reckon\\reckon\\reckon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\source\\repos\\reckon\\reckon\\reckon.csproj",
+        "projectUniqueName": "C:\\Projetos\\reckon\\reckon\\reckon.csproj",
         "projectName": "reckon",
-        "projectPath": "C:\\Users\\diego\\source\\repos\\reckon\\reckon\\reckon.csproj",
+        "projectPath": "C:\\Projetos\\reckon\\reckon\\reckon.csproj",
         "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\source\\repos\\reckon\\reckon\\obj\\",
+        "outputPath": "C:\\Projetos\\reckon\\reckon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,7 +73,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

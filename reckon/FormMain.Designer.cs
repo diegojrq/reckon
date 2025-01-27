@@ -45,7 +45,7 @@
             // 
             // BT_LoadSourceImage
             // 
-            BT_LoadSourceImage.Location = new Point(691, 12);
+            BT_LoadSourceImage.Location = new Point(1381, 25);
             BT_LoadSourceImage.Name = "BT_LoadSourceImage";
             BT_LoadSourceImage.Size = new Size(97, 23);
             BT_LoadSourceImage.TabIndex = 0;
@@ -55,7 +55,7 @@
             // 
             // BT_LoadFragmentImage
             // 
-            BT_LoadFragmentImage.Location = new Point(691, 41);
+            BT_LoadFragmentImage.Location = new Point(1381, 54);
             BT_LoadFragmentImage.Name = "BT_LoadFragmentImage";
             BT_LoadFragmentImage.Size = new Size(97, 23);
             BT_LoadFragmentImage.TabIndex = 1;
@@ -65,7 +65,7 @@
             // 
             // BT_CheckImages
             // 
-            BT_CheckImages.Location = new Point(691, 415);
+            BT_CheckImages.Location = new Point(1381, 428);
             BT_CheckImages.Name = "BT_CheckImages";
             BT_CheckImages.Size = new Size(97, 23);
             BT_CheckImages.TabIndex = 2;
@@ -93,13 +93,13 @@
             // 
             PB_CheckedImage.Location = new Point(296, 12);
             PB_CheckedImage.Name = "PB_CheckedImage";
-            PB_CheckedImage.Size = new Size(277, 243);
+            PB_CheckedImage.Size = new Size(1060, 792);
             PB_CheckedImage.TabIndex = 5;
             PB_CheckedImage.TabStop = false;
             // 
             // BT_ScreenCapture
             // 
-            BT_ScreenCapture.Location = new Point(12, 415);
+            BT_ScreenCapture.Location = new Point(12, 633);
             BT_ScreenCapture.Name = "BT_ScreenCapture";
             BT_ScreenCapture.Size = new Size(97, 23);
             BT_ScreenCapture.TabIndex = 6;
@@ -109,7 +109,7 @@
             // 
             // PB_SreenCapturedImage
             // 
-            PB_SreenCapturedImage.Location = new Point(12, 146);
+            PB_SreenCapturedImage.Location = new Point(12, 364);
             PB_SreenCapturedImage.Name = "PB_SreenCapturedImage";
             PB_SreenCapturedImage.Size = new Size(278, 263);
             PB_SreenCapturedImage.TabIndex = 7;
@@ -117,7 +117,7 @@
             // 
             // BT_ScreenCaptureTimer
             // 
-            BT_ScreenCaptureTimer.Location = new Point(115, 415);
+            BT_ScreenCaptureTimer.Location = new Point(115, 633);
             BT_ScreenCaptureTimer.Name = "BT_ScreenCaptureTimer";
             BT_ScreenCaptureTimer.Size = new Size(97, 23);
             BT_ScreenCaptureTimer.TabIndex = 8;
@@ -129,7 +129,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1580, 816);
             Controls.Add(BT_ScreenCaptureTimer);
             Controls.Add(PB_SreenCapturedImage);
             Controls.Add(BT_ScreenCapture);
